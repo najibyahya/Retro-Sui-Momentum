@@ -10,7 +10,6 @@ Link : [https://app.mmt.finance/](https://app.mmt.finance/leaderboard?refer=LWSD
 - Custom Cycle
 - Auto Swap 80% Sui Balance to USDC
 - Auto Swap Back 100% USDC balance to SUI
-- Currently not support with Multi Account
 
 ## privkey.txt
 - Input ur private key sui wallet, only 1 wallet
